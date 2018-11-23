@@ -1,0 +1,12 @@
+clouds:
+  myfavoriteopenstack:
+    auth:
+      auth_url: http://192.168.0.180:5000/v3
+      username: "tirta"
+      password: "batata"
+      project_id: 003c38aec78a4eb2a504aeb36ffbb05a
+      project_name: "admin"
+      user_domain_name: "admin_domain"
+    region_name: "RegionOne"
+    interface: "public"
+    identity_api_version: 3
